@@ -5,7 +5,9 @@ A simple and elegant Android weather application built with modern Android devel
 ## Pictures 
 
 
-    <img src="https://github.com/jassdahima/RealtimeWeather/blob/main/pictures/weatherpage1.png?raw=true" alt="RealtimeWeather App Screenshot" width="400"/> <img src="https://github.com/jassdahima/RealtimeWeather/blob/main/pictures/weatherpage2.png?raw=true" alt="RealtimeWeather App Screenshot" width="400"/>
+   html
+   <img src="https://github.com/jassdahima/RealtimeWeather/blob/main/pictures/weatherpage1.png?raw=true" alt="RealtimeWeather App Screenshot" width="400"/> html
+   <img src="https://github.com/jassdahima/RealtimeWeather/blob/main/pictures/weatherpage2.png?raw=true" alt="RealtimeWeather App Screenshot" width="400"/>
     
         
     
