@@ -2,12 +2,14 @@ RealtimeWeather App
 
 A simple and elegant Android weather application built with modern Android development tools. It allows users to search for any location and get the current weather conditions in real-time.
 
+•Pictures 
 
-   ![RealtimeWeather App Screenshot](https://github.com/jassdahima/RealtimeWeather/blob/main/pictures/weatherpage1.png?raw=true)
-   ![RealtimeWeather App Screenshot](https://github.com/jassdahima/RealtimeWeather/blob/main/pictures/weatherpage2.png?raw=true)                             ![RealtimeWeather App Screenshot](https://github.com/jassdahima/RealtimeWeather/blob/main/pictures/weatherpagedark.png?raw=true)
+ html
+    <img src="https://github.com/jassdahima/RealtimeWeather/blob/main/pictures/weatherpage1.png?raw=true" alt="RealtimeWeather App Screenshot" width="400"/>
+                           
   
    html
-    <img src="https://github.com/jassdahima/RealtimeWeather/blob/main/pictures/weatherpage1.png?raw=true" alt="RealtimeWeather App Screenshot" width="400"/>
+    <img src="https://github.com/jassdahima/RealtimeWeather/blob/main/pictures/weatherpage2.png?raw=true" alt="RealtimeWeather App Screenshot" width="400"/>
     
         
     
